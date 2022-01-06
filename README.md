@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Adrian (he/him)
+# 👋 Hi there, I'm Adrian (he/him)
 
 <!--
 **adriandavila/adriandavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm a computer science student at the University of Waterloo.
-- I'm currently working on... 
+- I'm currently working on a MERN productivity and scheduling app.
+- In my spare time I like to play soccer, eand do absolutely anything and everything with friends.
