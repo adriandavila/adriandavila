@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - I'm a computer science student at the University of Waterloo.
 - I'm currently working on a MERN productivity and scheduling app.
-- In my spare time I like to play soccer, practice photography, and do absolutely anything and everything with friends.
+- In my spare time I like to play soccer, practice photography, and do absolutely anything with friends.
