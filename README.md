@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm a computer science student at the University of Waterloo.
-- I'm currently applying to my first round of CO-OP jobs for the Summer 2022.
+- I'm currently applying to CO-OP positions for the Summer 2022.
 - In my spare time I like to play soccer, practice photography, and do absolutely anything with friends.
