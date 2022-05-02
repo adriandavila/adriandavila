@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm a computer science student at the University of Waterloo.
-- This summer I'll be working as a junior developer at H2Analytics.
-- In my spare time I like to play soccer, practice photography, and do absolutely anything with friends.
+- This summer I'll be working as a junior developer at H2 Analytics.
+- In my spare time I love to play soccer, practice photography, and do absolutely anything with friends.
