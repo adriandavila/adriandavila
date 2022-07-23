@@ -2,10 +2,8 @@
 <p align="center">
 <a href="https://github.com/adriandavila">Portfolio</a> •
 <a href="https://www.linkedin.com/in/adriandavila1/">LinkedIn</a> •
-<a href="https://learninpublic.org/?from=GH%20README">Resume</a>
+<a href="Link coming soon">Resume</a>
 </p>
-
----
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
