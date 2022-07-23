@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Adrian</h2>
+<h1 align="center" style="border-bottom: none">Hi 👋, I'm Adrian</h1>
 <p align="center">
 <a href="https://github.com/adriandavila">Portfolio</a> •
 <a href="https://www.linkedin.com/in/adriandavila1/">LinkedIn</a> •
@@ -8,9 +8,10 @@
 ---
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
 - 🖥 Full-stack software developer
 - 🎓 Studying Honours Computer Science with Co-Op at the University of Waterloo
-- 👨‍💻 Currently working as a Junior Developer @ H2 Analytics. Working with Python, TypeScript, Vue, D3.js, Docker, Kubernetes, and more.
+- 👨‍💻 Currently working as a Junior Developer @ H2 Analytics. Working with Python, Flask, Vue, TypeScript, D3.js, Docker, Kubernetes, and more.
 
 
 <details>
