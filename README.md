@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriandavila1/)](https://www.linkedin.com/in/adriandavila1/)
 
-I'm a driven problem-solver with creative flair, joining **MongoDB** as a **Software Engineering Intern** this summer.
+I'm a driven problem-solver with creative flair.
 
 ## Technical Proficiency
 
