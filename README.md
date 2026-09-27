@@ -2,9 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriandavila1/)](https://www.linkedin.com/in/adriandavila1/)
 
-A driven problem-solver with creative flair.
-
-## Technical Proficiency
+## Technical
 
 These are the technologies I'm currently using most often.
 
